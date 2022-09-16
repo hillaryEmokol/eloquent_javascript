@@ -7,4 +7,4 @@ function Min(x, y){
        return "we have no minimum"
 }
 Min()
-console.log(Min(2, 4))
+console.log(Min(3, 4))
