@@ -1,0 +1,11 @@
+this is a notation for declaring functions.
+we have the function name as a variable name followed by the equal sign then, then a list of parameters
+in brackets(), the arrow then follows these parameters and precedes the function body.
+
+example: 
+let sum = (x, y) => {
+return x+y;
+}
+
+or 
+let square = x => return x*x;
